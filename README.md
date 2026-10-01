@@ -7,7 +7,7 @@ rozbudujesz przy pomocy GitHub Copilota. Gotowa aplikacja porównuje wykresy kon
 dwóch użytkowników GitHuba — w klimacie gdańskiej stoczni.
 
 > 📍 **Instrukcja warsztatu (po polsku):**
-> **https://pawelsiwek.github.io/gdn-dev-days-2026/mona-mayhem/?track=cli**
+> **https://pawel-siwek.github.io/gdn-dev-days-2026/mona-mayhem/?track=cli**
 
 ## 🚀 Jak zacząć
 
@@ -15,7 +15,7 @@ dwóch użytkowników GitHuba — w klimacie gdańskiej stoczni.
 2. Wybierz sposób pracy:
    - **GitHub Copilot CLI:** sklonuj repo lokalnie, zainstaluj `copilot` i pracuj z terminala.
    - **VS Code:** sklonuj repo i otwórz je w VS Code.
-3. Przejdź do [instrukcji warsztatu](https://pawelsiwek.github.io/gdn-dev-days-2026/mona-mayhem/?track=cli).
+3. Przejdź do [instrukcji warsztatu](https://pawel-siwek.github.io/gdn-dev-days-2026/mona-mayhem/?track=cli).
 
 ```bash
 npm install
@@ -63,8 +63,8 @@ Jeśli chcesz zachować działające trasy API na produkcji, użyj platformy ser
 Kopia [`copilot-dev-days/mona-mayhem`](https://github.com/copilot-dev-days/mona-mayhem)
 (commit `d376143ca3e6c0b3c63980402deaf1c4ac0a1b19`, licencja MIT), zamrożona i przygotowana
 na **GitHub Dev Days Gdańsk**, 28.10.2026. Usunięto instrukcję warsztatu i workflow
-publikacji — instrukcja mieszka w [repozytorium materiałów](https://github.com/pawelsiwek/gdn-dev-days-2026).
-Pełna atrybucja: [NOTICE.md](https://github.com/pawelsiwek/gdn-dev-days-2026/blob/main/NOTICE.md).
+publikacji — instrukcja mieszka w [repozytorium materiałów](https://github.com/pawel-siwek/gdn-dev-days-2026).
+Pełna atrybucja: [NOTICE.md](https://github.com/pawel-siwek/gdn-dev-days-2026/blob/main/NOTICE.md).
 
 To nie jest oficjalny materiał GitHuba.
 
